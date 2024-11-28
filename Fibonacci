@@ -1,6 +1,6 @@
 .data
-prompt_input: .asciiz "Nhập vào số nguyên n: "
-output_text: .asciiz "Chuỗi Fibonacci tương ứng: "
+prompt_input: .asciiz "Nhap n: "
+output_text: .asciiz "Day Fibonacci tuong ung: "
 comma_space: .asciiz ", "
 newline: .asciiz "\n"
 array: .space 400  #Mảng 100 word 
